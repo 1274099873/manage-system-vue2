@@ -15,7 +15,7 @@
         添加
       </el-button>
       <el-button type="danger" @click="MultiDel" :disabled="isDisabled"
-        >批量删除</el-button
+        >批量delete</el-button
       >
     </div>
     
